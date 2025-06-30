@@ -7,8 +7,7 @@
 
 <h3 align="left">👨‍💻About Me</h3>
 
-- 🌱I'm currently learning **NextJS**.
-- 💪Also Working on some **MERN Stack** Projects
+- 💪Working on some **MERN Stack** Projects
 - 🤙Looking to collaborate on cool projects and take part in hackathons 
 - 📫Reach out to me: aryan16072001236809@gmail.com**
 - ⚡Fun Fact-A commit a day keeps the bugs away😏
